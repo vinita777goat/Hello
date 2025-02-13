@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background-color: #f8f1dc; color: #000; text-align: center; }
+header { background-color: gold; padding: 10px; }
+nav a { margin: 0 10px; text-decoration: none; color: black; }
+.product { margin: 20px; padding: 10px; border: 1px solid black; display: inline-block; }
+#cart { margin-top: 20px; }
